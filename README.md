@@ -18,16 +18,16 @@
 
 **Light Memos** is an Android lightweight note-taking app presented in the [Material You](https://m3.material.io/) style. Here are the current features and future plans:
 
--  Written purely in Compose and Kotlin, adhering to Material You design.
--  Supports Markdown writing.
--  Supports images.
--  Supports TAG label associations.
--  Supports theme and color customization.
--  Local data backup and restore.
--  Export in JSON format.
--  Cloud data backup and restore.
--  Fix relationships between tags and notes.
--  Complete English translation.
+- [x]  Written purely in Compose and Kotlin, adhering to Material You design.
+- [x]  Supports Markdown writing.
+- [x]  Supports images.
+- [x]  Supports TAG label associations.
+- [x]  Supports theme and color customization.
+- [ ]  Local data backup and restore.
+- [ ]  Export in JSON format.
+- [ ]  Cloud data backup and restore.
+- [ ]  Fix relationships between tags and notes.
+- [ ]  Complete English translation.
 -  ...
 
 ## Data Backup
