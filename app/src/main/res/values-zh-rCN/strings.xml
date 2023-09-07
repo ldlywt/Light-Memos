@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Memos</string>
+    <string name="app_name">Light Memos</string>
     <string name="search">搜索</string>
     <string name="back">返回</string>
     <string name="memos">灵感</string>
