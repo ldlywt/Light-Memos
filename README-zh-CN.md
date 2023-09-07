@@ -3,8 +3,8 @@
 <div align="center">
     <h1>Light Memos</h1>
     <p>一个以 <a target="_blank" href="https://m3.material.io/">Material You</a> 风格呈现的 Android 快速记录软件。</p>
-    <a target="_blank" href="todo">English</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    简体中文&nbsp;&nbsp;|&nbsp;&nbsp;</p>
+    <a target="_blank" href="https://github.com/ldlywt/Light-Memos/blob/master/README.md">English</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    简体中文&nbsp;&nbsp;</p>
     <br/>
     <br/>
     <img src="https://s1.ax1x.com/2023/09/07/pPyNFZq.png" width="19.2%" alt="" />
