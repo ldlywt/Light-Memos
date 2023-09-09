@@ -14,8 +14,8 @@ android {
         applicationId "com.ldlywt.memo"
         minSdk 26
         targetSdk 33
-        versionCode 16
-        versionName "0.0.1-beat"
+        versionCode 2
+        versionName "0.0.1-beat1"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables {

@@ -52,8 +52,8 @@
     <string name="fix_tag_desc">修正标签与笔记之间的关系</string>
     <string name="tips_and_support_desc">关于</string>
     <string name="data_backup">数据备份</string>
-    <string name="data_backup_desc">将数据进行备份</string>
-    <string name="data_restore">数据导出</string>
+    <string name="data_backup_desc">将数据备份到手机</string>
+    <string name="data_restore">数据还原</string>
     <string name="data_restore_desc">还原已经备份过的数据</string>
     <string name="appearance">外观</string>
     <string name="dark_theme">深色主题</string>

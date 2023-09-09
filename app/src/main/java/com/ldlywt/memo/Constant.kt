@@ -3,8 +3,17 @@ package com.ldlywt.memo
 import android.content.Context
 import android.content.Intent
 import android.net.Uri
+import java.text.SimpleDateFormat
+import java.util.Date
+import java.util.Locale
 
 object Constant {
+
+    fun Date.formatName(): String {
+        return SimpleDateFormat("yyyyMMddHHmm", Locale.ENGLISH).format(this)
+    }
+    val backUpFileName:String
+        get() = "backup" + Date().formatName() + ".zip"
 
     val USER_AGREEMENT =
         if (BuildConfig.isGooglePlay)

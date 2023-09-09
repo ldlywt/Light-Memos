@@ -56,7 +56,7 @@
     <string name="fix_tag">Tag Repair</string>
     <string name="tips_and_support_desc">About</string>
     <string name="data_backup">Data Backup</string>
-    <string name="data_backup_desc">Backup Data</string>
+    <string name="data_backup_desc">Back up data to mobile phone</string>
     <string name="data_restore_desc">Restoring data that has been backed up</string>
     <string name="appearance">Exterior</string>
     <string name="use_device_theme">Follow System</string>
@@ -72,7 +72,7 @@
     <string name="browse_tos_tips">Browse the &lt;i&gt;&lt;u&gt;Terms of Service and Privacy Policy&lt;/u&gt;&lt;/i&gt;</string>
     <string name="agree">Agree</string>
     <string name="fix_tag_desc">Fix relationship between tags and notes</string>
-    <string name="data_restore">Data Export</string>
+    <string name="data_restore">Data Restore</string>
     <string name="dark_theme">Dark Theme</string>
     <string name="on">On</string>
     <string name="off">Off</string>
