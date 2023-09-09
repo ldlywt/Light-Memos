@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Light Memos</string>
+    <string name="app_name">轻笔记</string>
     <string name="search">搜索</string>
     <string name="back">返回</string>
     <string name="memos">灵感</string>
@@ -36,6 +36,47 @@
     <string name="share">分享</string>
     <string name="archive">归档</string>
     <string name="explore">探索</string>
+    <string name="user_agree">用户协议</string>
+    <string name="contact">联系</string>
+    <string name="author">开发者：ldlywt</string>
+    <string name="json_export">Json 导出</string>
+    <string name="json_export_summary">导出为 Json 数据，不支持图片附件</string>
+    <string name="color_and_style">颜色和样式</string>
+    <string name="color_and_style_desc">主题、色调样式</string>
+    <string name="local_data_manager">本地数据管理</string>
+    <string name="local_data_manager_desc">本地数据备份/还原/Json导出</string>
+    <string name="local_data_manager_subtitle">数据本地持久化</string>
+    <string name="cloud_data_manager">云数据管理</string>
+    <string name="cloud_data_manager_desc">云数据账号配置/备份/还原</string>
+    <string name="fix_tag">标签修复</string>
+    <string name="fix_tag_desc">修正标签与笔记之间的关系</string>
+    <string name="tips_and_support_desc">关于</string>
+    <string name="data_backup">数据备份</string>
+    <string name="data_backup_desc">将数据进行备份</string>
+    <string name="data_restore">数据导出</string>
+    <string name="data_restore_desc">还原已经备份过的数据</string>
+    <string name="appearance">外观</string>
+    <string name="dark_theme">深色主题</string>
+    <string name="use_device_theme">跟随系统设置</string>
+    <string name="on">开启</string>
+    <string name="off">关闭</string>
+    <string name="amoled_dark_theme">AMOLED 深色主题</string>
+    <string name="other">其他</string>
+    <string name="wallpaper_colors">壁纸颜色</string>
+    <string name="basic_colors">基本颜色</string>
+    <string name="no_palettes">暂无色板</string>
+    <string name="only_android_8.1_plus">仅限 Android 8.1+</string>
+    <string name="clear">清除</string>
+    <string name="paste">粘贴</string>
+    <string name="primary_color">强调色</string>
+    <string name="primary_color_hint">例如 #666666 或 666666</string>
+    <string name="sponsor">捐赠</string>
+    <string name="help">帮助</string>
+    <string name="cloud_data_config">云盘账号配置</string>
+    <string name="cloud_data_config_desc">云盘的账号密码配置</string>
+    <string name="server_url">服务器地址</string>
+    <string name="add">添加</string>
+    <string name="tos_tips">在此之前，请阅读并同意服务条款与隐私政策。</string>
     <string name="browse_tos_tips">查看《<i><u>服务条款与隐私政策</u></i>》</string>
     <string name="agree">同意</string>
 </resources>

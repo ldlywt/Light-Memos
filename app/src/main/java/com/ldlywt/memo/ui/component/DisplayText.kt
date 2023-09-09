@@ -31,7 +31,7 @@ fun DisplayText(
     ) {
         Text(
             modifier = Modifier
-                .height(44.dp),
+                .height(48.dp),
 //                .animateContentSize(tween()),
             text = text,
             style = MaterialTheme.typography.displaySmall.copy(

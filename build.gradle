@@ -6,16 +6,8 @@ buildscript {
         accompanist = '0.30.0'
         // https://developer.android.com/jetpack/androidx/releases/compose-material3
         material3 = '1.1.0-beta01'
-        // https://square.github.io/okhttp/changelogs/changelog/
-        okhttp_version = '4.10.0'
-        // https://github.com/square/retrofit/tags
-        retrofit_version = '2.9.0'
         // https://developer.android.com/jetpack/androidx/releases/datastore
         datastore = "1.0.0"
-        // https://github.com/skydoves/sandwich/releases
-        sandwich = "1.3.5"
-        // https://github.com/square/moshi/tags
-        moshi = "1.14.0"
         // https://developer.android.com/jetpack/androidx/releases/paging
         paging_version = "3.1.1"
         accompanist = '0.24.7-alpha'
