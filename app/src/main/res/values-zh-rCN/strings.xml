@@ -79,4 +79,5 @@
     <string name="tos_tips">在此之前，请阅读并同意服务条款与隐私政策。</string>
     <string name="browse_tos_tips">查看《<i><u>服务条款与隐私政策</u></i>》</string>
     <string name="agree">同意</string>
+    <string name="whole_word_search">全</string>
 </resources>

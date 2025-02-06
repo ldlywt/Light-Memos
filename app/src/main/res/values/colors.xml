@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="windowBackground">@android:color/background_light</color>
+    <color name="fontColor">@android:color/background_dark</color>
+    <color name="fontHighLightColor">#FF00FF00</color>
 </resources>
