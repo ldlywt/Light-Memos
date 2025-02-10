@@ -85,4 +85,5 @@
     <string name="server_url">Server Address</string>
     <string name="add">Add</string>
     <string name="tos_tips">Before doing so, please read and agree to the Terms of Service and Privacy Policy.</string>
+    <string name="whole_word_search">W</string>
 </resources>
