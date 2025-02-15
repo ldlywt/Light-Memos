@@ -50,8 +50,24 @@ I'll gradually improve it, but the power of one person is limited. Pull requests
 - [MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid)
 - ...
 
-## License
+## ⚠️ License
+    IdeaMemo
 
-GNU GPL v3.0 © [Light Memos](https://github.com/ldlywt/Memos/blob/master/LICENSE)
+    Copyright (c)2025 ldlywt
+    
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+    
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+    GNU General Public License for more details.
+    
+    The above copyright notice, this permission notice, and its license shall be included in all copies or substantial portions of the Software.
+    
+    You can find a copy of the GNU General Public License v3 [here](https://www.gnu.org/licenses/)</p>
+
 
 Please consider giving us a star; it makes life better. **🌟**
